@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Carlos
-- 👀 I’m interested em PYthon,JAVASCRIPT,C++,HMTL5Y,MYSQL
+- 👀 I’m interested em PYthon,JAVASCRIPT,C++,HMTL5,MYSQL
 - 🌱 I’m currently learning TODOS ESSES ACIMA
 - 💞️ POR ENQUNTO EU SO POSSO OBSERVAR PARA APRENDER E DEPOIS TALVEZ DAR UMAS DICAS PARA AJUDAR OUTRAS PESSOAS.
 - 📫 How to reach me  ???? PRA QUE CHEGAR ATÉ MIM...
